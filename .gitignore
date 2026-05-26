@@ -1,0 +1,8 @@
+*.exe
+*.out
+*.o
+*.obj
+.vs/
+Debug/
+Release/
+*.vcxproj.user
